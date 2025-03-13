@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ZzZ - Tienda de Tecnología</title>
+    <link rel="stylesheet" href="styles.css">
+    <link rel="icon" type="image/png" href="img/favicon-32x32.png">
+</head>
+<body>
+
+    <!-- Header Logo y Navegación -->
+    <header>
+        <div class="logo">
+            <img src="img/icon.png" alt="Logo">
+            <span>ZzZ</span>
+        </div>
+        <nav>
+            <ul>
+                <li><a href="#">Home</a></li>
+                <li><a href="#">About</a></li>
+                <li><a href="#">Shop</a></li>
+                <li><a href="#">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <!-- Sección de Título -->
+    <section class="titulo">
+        <h2>Explora el futuro con ZzZ</h2>
+    </section>
+
+    <!-- Sección de Publicidad -->
+    <section class="publicidad">
+        <h2>Laptops de última Generación</h2>
+       
+    </section>
+
+    <!-- Sección de Anuncios -->
+    <section class="anuncios">
+        <h2>Anuncios</h2>
+          <!-- Nuevo texto promocional -->
+    <p class="mensaje-promocional">Descubre nuestras ofertas especiales y los mejores precios en tecnología.</p>
+        <div class="categorias">
+            <div class="categoria gaming">
+                <h3>Gaming</h3>
+            </div> <div class="categoria celulares">
+                <h3>Celulares</h3>
+            </div>
+            <div class="categoria accesorios">
+                <h3>Accesorios</h3>
+            </div>
+        </div> 
+
+        <button>SHOP NOW</button>
+    </section>
+
+</body>
+</html>
